@@ -1,0 +1,5 @@
+# environment
+venv/
+DiamondPricePrediction.egg-info/
+build
+dist
